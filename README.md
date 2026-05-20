@@ -1,4 +1,4 @@
-Accessible on https://rev1s0r.github.io/react-food-app/
+Accessible on https://petrikba.github.io/react-food-app/
 
 built with the help of copilot to test it
 
